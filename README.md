@@ -12,6 +12,10 @@ Il contiendra les adresses des participants, des liens intéressants (code, docu
 
 - [OpenCV](https://opencv.org/)
 
+## Manifestations sur les technologies pour le handicap
+
+- [Handitech Trophy](https://www.lahanditech.fr/les-trophees-2018)
+
 ## Produits commerciaux
 
 - [Essilor - MyEye](http://www.myeye.fr/)
