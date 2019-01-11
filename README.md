@@ -1,4 +1,4 @@
-## [Site](https://frole.github.io/AI4Eye/)
+## [Lien vers le site](https://frole.github.io/AI4Eye/)
 
 ## Objectif du site 
 
