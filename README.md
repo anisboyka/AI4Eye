@@ -24,7 +24,7 @@ Il contiendra des liens intéressants (code, documents), les CR des réunions (r
 
 A compléter
 
-## Tâches 
+## CR de réunions 
 
 A compléter
 
