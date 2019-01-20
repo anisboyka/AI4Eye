@@ -31,7 +31,9 @@ A compléter
 
 ## CR de réunions 
 
-A compléter
+*MIAGE*
+- [Décembre 2018](AI4Eye/Réunion_de_décembre_2018.md)
+- [11 Janvier 2019](AI4Eye/Réunion_du_11_janvier_2019.md)
 
 ## Lien EDT
 
