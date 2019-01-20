@@ -1,15 +1,20 @@
 
 **Participants:**
-Alex Bournadet
-Alice Mondjanagni
-Amina Bangoura
-Bettina Aza
-Monsieur Role
+
+
+Alex Bournadet</br>
+Alice Mondjanagni</br>
+Amina Bangoura</br>
+Bettina Aza</br>
+Monsieur Role</br>
 
 **Objectif:**
+
+
 La réunion avait pour but de mieux cerner le sujet.
 
 **Résumé du projet:**
+</br>
 
 Le projet consiste en la création d’un outil permettant la description d’un flux visuel à l’intention des malvoyants.
 Cet outil se présente sous la forme d’une caméra reliée à un ordinateur qui envoie les informations de l’image à un serveur distant, celui-ci renvoie alors un texte qui sera lu à l’intention de la personne malvoyante.
@@ -19,7 +24,7 @@ Le projet regroupe 2 équipes : 1 équipe de Master 1 MIAGE et 1 équipe de Mast
 Le projet sera découpé en plusieurs lots dispatchés sur 2 ans.
 Le but étant d’avoir un produit fonctionnel à la fin.
 
-Nous serons encadré par Monsieur Role et auront des interlocuteurs potentiellement utilisateur de l’outil.
+Nous serons encadré par Monsieur Role et auront des interlocuteurs potentiellement utilisateur de l’outil.</br>
 
 **Outils nécessaires à la mise en place du projet:**
 
