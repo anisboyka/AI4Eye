@@ -1,6 +1,8 @@
 Réunion du 11/01/2019
 
 **Participants :**
+
+
 Alex Bournadet</br>
 Alice Mondjanagni</br>
 Amina Bangoura</br>
