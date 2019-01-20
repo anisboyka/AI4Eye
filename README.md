@@ -35,4 +35,6 @@ A compléter
 
 ## Lien EDT
 
-M1 FA : https://sites.google.com/site/miageparisdescartes/
+- [EDT M1 FA](https://sites.google.com/site/miageparisdescartes/)
+- [EDT MLSD](https://docs.google.com/spreadsheets/d/1rShg4HAYBCYl4qJpvhNG_pxI63zdIMOHTOr_eGSljic/edit?ts=5b55d29b#gid=0)
+
