@@ -31,27 +31,29 @@ Suite à ce constat plusieurs objectifs sont ressortis afin de redéfinir le pé
 
 **Objectif :** expliquer / justifier les choix  (dans la partie architecture du PPD)
 
-Etudier les aspects techniques/ contraintes économiques du projet (partie importante du projet)
-Etudier la valeur ajoutée du RaspBerry par rapport au téléphone mobile 
-RaspBerry plus puissant pour le traitement ? 
-Le téléphone peut-il supporter le serveur Flask ?
-Définir si on part sur de la surveillance ou du mobile
-Obtenir assez vite  la spécification des images qui sont en entrée
-Doit-on effectuer le traitement d’image avant de l’envoyer au groupe mlsd ? 
-Poser les pour et contre des Apis existantes / architectures
+- Etudier les aspects techniques/ contraintes économiques du projet (partie importante du projet)
+- Etudier la valeur ajoutée du RaspBerry par rapport au téléphone mobile 
+- RaspBerry plus puissant pour le traitement ? 
+- e téléphone peut-il supporter le serveur Flask ?
+- Définir si on part sur de la surveillance ou du mobile
+- Obtenir assez vite  la spécification des images qui sont en entrée
+- Doit-on effectuer le traitement d’image avant de l’envoyer au groupe mlsd ? 
+- Poser les pour et contre des Apis existantes / architectures
 
 **Pistes d’améliorations :**
 
 Au lieu d’utiliser une RaspBerry PI, il vaudrait mieux partir sur une application de téléphone. 
-Avantages : 
-Facilement transportable
-Connexion à internet
-Caméra intégrée
-Puissance de calcul supérieure
-Meilleure autonomie
-Meilleure ergonomie
-Inconvénients : 
-Connaissances limitées en Dev Mobile
-Paiement de licence de Dev
-Adaptabilité à l’écran + OS + Puissance + Modèle de téléphone
-Revoir le cahier des charges etc...
+
+|Avantages |Inconvénients |
+|:---------------------------|:--------------------------|
+|Facilement transportable|Connaissances limitées en Dev Mobile|
+|Connexion à internet|Paiement de licence de Dev|
+|Caméra intégrée|Adaptabilité à l’écran + OS + Puissance + Modèle de téléphone|
+|Puissance de calcul supérieure|Revoir le cahier des charges etc...|
+|Meilleure autonomie||
+
+
+
+
+
+
