@@ -34,7 +34,7 @@ Suite à ce constat plusieurs objectifs sont ressortis afin de redéfinir le pé
 - Etudier les aspects techniques/ contraintes économiques du projet (partie importante du projet)
 - Etudier la valeur ajoutée du RaspBerry par rapport au téléphone mobile 
 - RaspBerry plus puissant pour le traitement ? 
-- e téléphone peut-il supporter le serveur Flask ?
+- Le téléphone peut-il supporter le serveur Flask ?
 - Définir si on part sur de la surveillance ou du mobile
 - Obtenir assez vite  la spécification des images qui sont en entrée
 - Doit-on effectuer le traitement d’image avant de l’envoyer au groupe mlsd ? 
