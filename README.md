@@ -37,6 +37,6 @@ A compléter
 
 ## Lien EDT
 
-- [EDT M1 FA](https://sites.google.com/site/miageparisdescartes/)
-- [EDT MLSD](https://docs.google.com/spreadsheets/d/1rShg4HAYBCYl4qJpvhNG_pxI63zdIMOHTOr_eGSljic/edit?ts=5b55d29b#gid=0)
+- [EDT M1 FA](https://github.com/frole/AI4Eye/wiki/Compte-Rendu-Réunion-de-décembre-2018-(MIAGE))
+- [EDT MLSD](https://github.com/frole/AI4Eye/wiki/Compte-Rendu-Réunion-du-11-janvier-2019-(MIAGE))
 
