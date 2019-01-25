@@ -27,7 +27,9 @@ Il contiendra des liens intéressants (code, documents), les CR des réunions (r
 
 ## Documentation interne
 
-A compléter
+- [Sujet MIAGE](https://github.com/frole/AI4Eye/wiki/Sujet-PPD-MIAGE)
+- [Cahier des charges](https://github.com/frole/AI4Eye/wiki/Cahier-des-charges-au-11-janvier-2019)
+
 
 ## CR de réunions 
 
@@ -40,7 +42,6 @@ A compléter
 - [EDT M1 FA](https://github.com/frole/AI4Eye/wiki/Compte-Rendu-Réunion-de-décembre-2018-(MIAGE))
 - [EDT MLSD](https://github.com/frole/AI4Eye/wiki/Compte-Rendu-Réunion-du-11-janvier-2019-(MIAGE))
 
-## [Cahier des charges](https://github.com/frole/AI4Eye/wiki/Cahier-des-charges-au-11-janvier-2019)
 
 
 
