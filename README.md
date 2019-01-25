@@ -32,8 +32,8 @@ A compléter
 ## CR de réunions 
 
 *MIAGE*
-- [Décembre 2018](https://github.com/frole/AI4Eye/blob/master/Réunion_de_décembre_2018.md)
-- [11 Janvier 2019](https://github.com/frole/AI4Eye/blob/master/Réunion_du_11_janvier_2019.md)
+- [Décembre 2018](https://github.com/frole/AI4Eye/wiki/Compte-Rendu-Réunion-de-décembre-2018-(MIAGE))
+- [11 Janvier 2019](https://github.com/frole/AI4Eye/wiki/Compte-Rendu-Réunion-du-11-janvier-2019-(MIAGE))
 
 ## Lien EDT
 
