@@ -39,8 +39,8 @@ Il contiendra des liens intéressants (code, documents), les CR des réunions (r
 
 ## Lien EDT
 
-- [EDT M1 FA](https://github.com/frole/AI4Eye/wiki/Compte-Rendu-Réunion-de-décembre-2018-(MIAGE))
-- [EDT MLSD](https://github.com/frole/AI4Eye/wiki/Compte-Rendu-Réunion-du-11-janvier-2019-(MIAGE))
+- [EDT M1 FA](https://docs.google.com/spreadsheets/d/1wB4t0gcnPInfgMxZQyyE9UBLyZYyGP6lRhNj07fwJjM/edit#gid=0)
+- [EDT MLSD]()
 
 
 
