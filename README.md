@@ -43,6 +43,16 @@ Il contiendra des liens intéressants (code, documents), les CR des réunions (r
 - [EDT MLSD]()
 
 
+## Dates de réunion de coordination
+
+- 8/03
+- 29/03
+- 19/04
+- 02/05
+- 03/05
+- 16/05 
+- 17/05 
+
 
 
 
