@@ -47,7 +47,10 @@ Il contiendra des liens intéressants (code, documents), les CR des réunions (r
 
 - [planning](https://docs.google.com/spreadsheets/d/1F2co_AUr76TpUOEI7Lyake-v93tIqCdd_QtP_RWQyJI/edit?usp=sharing)
 
+## Choix technologiques
 
+- [Etude du projet](https://github.com/frole/AI4Eye/wiki/Etude-du-projet)
+- [Etude comparative Raspberry/téléphone](https://github.com/frole/AI4Eye/wiki/Comparatif-RaspBerry-PI---Téléphone-mobile-14-février-2019)
 
 
 
